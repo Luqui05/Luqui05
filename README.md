@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luqui05
 - 👀 I’m interested in programming
-- 🌱 I’m currently in High School
+- 🌱 I’m currently in College
 - 💞️ I’m looking to learn how to code
 
 <!---
