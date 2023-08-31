@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luqui05
 - 👀 I’m interested in programming
-- 🌱 I’m currently in College
+- 🌱 I’m currently in College - IFPR (Instituto Federal do Paraná - Campus Paranavaí)
 - 💞️ I’m looking to learn how to code
 
 <!---
