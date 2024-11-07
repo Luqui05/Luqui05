@@ -7,16 +7,16 @@
 - :books: I’m currently learning everything. Focusing in Front-End to become a Full-Stack Developer in the future
 - :outbox_tray: 2025 Goals: become a Full Stack Developer
 - 👨‍🎓: I'm a Software Engineering student at IFPR - Campus Paranavaí
-That's it!
--Thanks for visiting
--Enjoy it!! o/
-
+- That's it! Thanks for visiting, enjoy it!
 <!---
 Luqui05/Luqui05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqui05&show_icons=true&theme=tokyonight)
+
+----------------------------------------------------------------------------
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luqui05&theme=tokyonight)
 
 
