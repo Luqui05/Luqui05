@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 <code><img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" ></code>
 <code><img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" ></code>
 <code><img src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" ></code>
-<code><img src= "https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" ></code>
 </div>
 
 ## Front-End:
