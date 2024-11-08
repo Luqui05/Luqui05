@@ -2,11 +2,12 @@
 # Bem vindo! / Welcome!
 ## I'm Lucas Ribeiro
 - :computer: I'm a Back-End Developer!
-- 👨‍💻 I work at Compass UOL as a Trainee programmer
+- 🧭 I work at Compass UOL as a Trainee programmer
 - :house_with_garden: I’m from Brazil.
-- :books: I’m currently learning everything. Focusing in Front-End to become a Full-Stack Developer in the future
+- ☕ My main programming language is Java
+- :books: I'm currently studying JS and Node.js in order to improve my Back-End development skills
 - :outbox_tray: 2025 Goals: become a Full Stack Developer
-- 👨‍🎓: I'm a Software Engineering student at IFPR - Campus Paranavaí
+- 👨‍🎓 I'm a Software Engineering student at IFPR - Campus Paranavaí
 - That's it! Thanks for visiting, enjoy it!
 <!---
 Luqui05/Luqui05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
