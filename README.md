@@ -5,8 +5,8 @@
 - 🧭 I work at Compass UOL as a Trainee programmer
 - :house_with_garden: I’m from Brazil.
 - ☕ My main programming language is Java
-- :books: I'm currently studying JS and Node.js in order to improve my Back-End development skills
-- :outbox_tray: 2025 Goals: become a Full Stack Developer
+- :books: I'm currently studying TS and Node in order to improve my Back-End development skills
+- :outbox_tray: 2025 Goals: become a better Back-End Developer
 - 👨‍🎓 I'm a Software Engineering student at IFPR - Campus Paranavaí
 - That's it! Thanks for visiting, enjoy it!
 <!---
